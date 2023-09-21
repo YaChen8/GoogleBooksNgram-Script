@@ -35,7 +35,6 @@ Flags:
 
 将需要下载的关键词按行存储在subjects.txt文件里面
 
-![image-20230921101948232](C:\Users\cy111\AppData\Roaming\Typora\typora-user-images\image-20230921101948232.png)
 
 然后运行get_all subjects.py文件，最终数据会依次存储在data文件夹里，如果需要修改下载的flags，可以直接打开get_all subjects.py文件修改command对应的参数
 
