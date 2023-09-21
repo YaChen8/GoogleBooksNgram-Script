@@ -1,5 +1,10 @@
 # GoogleBooksNgram-Script
 
+下载Google Books Ngram Viewer数据
+https://books.google.com/ngrams/
+![Uploading image.png…]()
+
+
 ## 简单用法示例
 
 下载所有代码后在setup.py文件夹位置按住Shift键同时鼠标右击，点击“在此处打开Powershell窗口”
