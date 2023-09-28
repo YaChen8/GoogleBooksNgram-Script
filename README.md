@@ -7,8 +7,6 @@ https://books.google.com/ngrams/
 
 下载所有代码后在setup.py文件夹位置按住Shift键同时鼠标右击，点击“在此处打开Powershell窗口”
 
-![image-1658900850938](http://www.chenya.online/upload/2022/07/image-1658900850938.png)
-
 打开代码行界面后输入下方的代码然后按回车，运行完对应的代码行后会在data的文件夹位置输出保存的结果
 
     python .\getNgrams.py virus,toxin,vira,virion,venom -corpus=eng_2019 -startYear=1500 -endYear=2019 -smoothing=3 -csv -quit  -noprint
